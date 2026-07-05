@@ -6,3 +6,6 @@ chroma_docwise/
 
 uploaded_pdfs/
 chroma_docwise/
+
+frontend/node_modules/
+frontend/dist/
